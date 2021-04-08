@@ -19,9 +19,6 @@ public class Homework4 {
     }
 }
 
-
-
-
 class Dog{
     String name;
     int age;
